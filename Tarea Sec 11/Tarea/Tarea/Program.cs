@@ -27,6 +27,7 @@ namespace Tarea
 
                 }
                 //catch (FormatException convertintop)
+                //Cambios
                 //{
                 //    Console.WriteLine("Solo se aceptan valores numericos (1, 2)");
                 //    opcion = 5; // Asignar un valor no válido para continuar el bucle
